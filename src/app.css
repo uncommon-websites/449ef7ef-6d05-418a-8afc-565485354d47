@@ -23,7 +23,7 @@
 }
 
 body {
-	background-color: var(--color-cream);
+	background-color: #FFFFFF;
 	font-family: var(--font-sans);
 	color: var(--color-dark);
 }
